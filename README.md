@@ -1,5 +1,5 @@
 
-# **Sports Gear AI Assistant** 🏋️‍♂️🤖
+# ** TalkAI - The General AI Chatbot Assistant** 🤖
 
 A user-friendly AI-powered assistant designed to provide personalized, expert advice on sports gear and equipment. Built with **Streamlit**, **Groq API**, and **Python**, this application simplifies the research process and helps users make informed decisions effortlessly. 🚀
 
