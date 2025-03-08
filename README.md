@@ -60,12 +60,7 @@ A user-friendly AI-powered assistant designed to provide personalized, expert ad
    ```bash
    pip install -r requirements.txt
    ```
-4. Set up environment variables:  
-   - Create a `.env` file and add your Groq API key:  
-     ```env
-     GROQ_API_KEY=your_api_key_here
-     ```
-5. Run the application:  
+4. Run the application:  
    ```bash
    streamlit run app.py
    ```
